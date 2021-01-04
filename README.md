@@ -1,0 +1,2 @@
+# Django-Notes
+Django GOGOGO~
